@@ -1,5 +1,9 @@
 h1{
-    color:pink;
+    background-color:pink;
     font-family: monospace;
     font-size: 80px;
+}
+img{
+    width: 200px;
+    height: 200px;
 }
